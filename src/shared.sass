@@ -1,0 +1,26 @@
+/* Shared SASS Definitions */
+
+$backgroundColor: #2B2B2B
+
+$transitionTimeFast: 0.2s
+$transitionTimeMid:  0.8s
+$transitionTimeSlow: 1.4s
+
+$easeInOutCirc: cubic-bezier(0.785, 0.135, 0.15, 0.86)
+$easeInOutCubic: cubic-bezier(0.645, 0.045, 0.355, 1)
+
+
+=transition-fast
+    transition: $transitionTimeFast $easeInOutCirc
+
+=transition-mid
+    transition: $transitionTimeMid $easeInOutCirc
+
+=transition-slow
+    transition: $transitionTimeSlow $easeInOutCirc
+
+
+=flexCentre
+    display: flex
+    align-items: center
+    justify-content: center

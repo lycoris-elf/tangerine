@@ -1,0 +1,12 @@
+{
+    "main": "index.html",
+    "name": "project-tangerine",
+    "window": {
+        "width": 1280,
+        "height": 720,
+        "position": "center",
+        "frame": false,
+        "resizable": false,
+        "fullscreen": false
+    }
+}
