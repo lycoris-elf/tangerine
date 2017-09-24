@@ -1,2 +1,6 @@
+dist/chromedriver
+dist/nwjc
+dist/minidump_stackwalk
+dist/payload
 dist/nwjs.app/
 node_modules/
