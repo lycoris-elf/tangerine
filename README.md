@@ -1,21 +1,22 @@
-# giloo-desktop
+# Project Armor Code
 
-> A Vue.js project
+> Girls' Frontline Doujin Adventure Game
 
-## Build Setup
+## Build Instructions
 
-``` bash
-# install dependencies
-npm install
+1. Install dependencies for build:
 
-# serve with hot reload at localhost:8080
-npm run dev
+    `npm install`
 
-# build for production with minification
-npm run build
+2. Run build script
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+    `npm run build`
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+3. Main testing page will be placed at:
+
+    `dist/index.html`
+
+## Specifications
+
+    DXI Engine v0.0.2
+    PIXI.js v4
